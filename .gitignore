@@ -1,0 +1,9 @@
+# Build results
+bin/
+obj/
+
+# User settings
+.vs/
+.vscode/
+*.user
+*.suo
